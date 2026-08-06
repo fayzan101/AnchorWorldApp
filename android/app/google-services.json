@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646943005762",
+    "project_id": "anchorworld-b0bc5",
+    "storage_bucket": "anchorworld-b0bc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646943005762:android:10e2c9e2bf34a4a65ba1db",
+        "android_client_info": {
+          "package_name": "com.anchor.heart1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsrgwQtxmzYakxvl0GRJuaKoCAdCdjyPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
